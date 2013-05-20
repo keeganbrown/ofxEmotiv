@@ -1,18 +1,23 @@
 ofxEmotiv
 =========
-Addon para obtener las lecturas del Epoc Emotiv Headset.
+Addon to use Emotiv Epoc Headset with openFrameworks.
 
-Incluyo instrucciones para saber en donde copiar los archivos del SDK.
+I include instructions to know where to copy the files from the SDK.
 
-Compilado contra la versión .74 del framework.
+Compiled against version 0.74 of openFrameworks.
 
-Para saber mas:
+To learn more:
 
 http://www.emotiv.com/
 
+http://www.openframeworks.cc/
+
+Original Author of the Addon.
 http://www.thisisnotanumber.org/electroencefalografia/
 
 -----------------------------------------
+
+This Readme Translated Spanish to English by Keegan Brown
 
 Version 0.3.0
 
