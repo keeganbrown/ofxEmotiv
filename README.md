@@ -2,8 +2,6 @@ ofxEmotiv
 =========
 Addon to use Emotiv Epoc Headset with openFrameworks.
 
-I include instructions to know where to copy the files from the SDK.
-
 Compiled against version 0.74 of openFrameworks.
 
 To learn more:
